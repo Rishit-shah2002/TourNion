@@ -13,7 +13,7 @@
 
 *  Other user can find tour by searching name of tour. User can find all the tour which are related to particular tags by clicking on that tags.
 
-# Technologies/Plateform/Tools Used
+# Technologies/Platform/Tools Used
 
 ###  Technology :
   * ReactJs
