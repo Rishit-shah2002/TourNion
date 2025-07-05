@@ -37,14 +37,6 @@
 
 
 
-
-### ➤ SignIn with google functionality 
-
-![image](https://user-images.githubusercontent.com/87079541/232981210-0a1d483c-150e-45f4-a111-410ae16972c4.png)
-
-
-
-
 ### ➤ Add Tour Functionality 
 
 ![image](https://user-images.githubusercontent.com/87079541/232981548-27132439-8ba8-40f0-ab9e-442ef055b225.png)
